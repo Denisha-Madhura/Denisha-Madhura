@@ -1,4 +1,4 @@
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/denishamadhura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denisha-madhura-5384a331b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denisha.madhura2007@gmail.com) 
 
