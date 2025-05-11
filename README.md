@@ -11,13 +11,15 @@
 👾 Working on building games<br>🔐 Learning about secure websites
 
 
-## 🌐 Connect with me here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/denisha-madhura-5384a331b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denisha.madhura2007@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=denisha-madhura&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=denisha-madhura&theme=catppuccin_mocha&hide_border=false)  
 ![](https://github-contributor-stats.vercel.app/api?username=denisha-madhura&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
+## 🌐 Connect with me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/denisha-madhura-5384a331b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denisha.madhura2007@gmail.com) 
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
