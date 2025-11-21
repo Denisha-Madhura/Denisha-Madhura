@@ -1,5 +1,9 @@
 powered by caffeine and an extreme aversion to being unproductive.  
-i’m den — a full-stack & systems-curious dev who loves building clean, fast tools.
+---
+# about me
+i’m den — a full-stack & AI-curious dev.
+i love exploring and building tools that make work easy and effective.
+
 ---
 
 # 💻 currently working on
@@ -21,9 +25,3 @@ i’m den — a full-stack & systems-curious dev who loves building clean, fast 
 
 # 📊 top contributed repos
 ![](https://github-contributor-stats.vercel.app/api?username=denisha-madhura&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
-
-# 🌐 socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denisha-madhura)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denisha.madhura2007@gmail.com)
